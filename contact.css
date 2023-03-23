@@ -127,7 +127,7 @@
 
 .contactForm .inpuBox input:focus ~ span,
 .contactForm .inpuBox input:valid ~ span{
-    color: #12c6f3;
+    color: #4a9eb3;
     font-size: 12px;
     transform: translateY(-20px);
 }
@@ -158,3 +158,4 @@
         width: 100%;
     }
 }
+
